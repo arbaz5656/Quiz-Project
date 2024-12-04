@@ -26,5 +26,5 @@ A simple Python-based Quiz System that allows users to register, log in, take qu
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/quiz-system.git
+git clone https://github.com/arbaz5656/Quiz-Project.git
 cd quiz-system
